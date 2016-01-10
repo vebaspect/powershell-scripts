@@ -1,1 +1,1 @@
-W repozytorium znajdziesz *skrypty PowerShell*, które mogą przydać Ci się podczas codziennej pracy z systemem operacyjnym **Windows**.
+W repozytorium znajdziesz *skrypty PowerShell*, które mogą przydać Ci się podczas codziennej pracy z systemem operacyjnym **Windows 10**.
